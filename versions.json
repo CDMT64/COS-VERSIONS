@@ -11,8 +11,12 @@
   },
   "TIMELINE": {
     "version": "V1.1",
-    "date": "05/10/2026",
-    "notes": [Ajout de visuels - Ajout fonction MEDEVAC - Modifications des marqueurs]
+    "date": "2026-10-05",
+    "notes": [
+      "Ajout de visuels.",
+      "Ajout de la fonction MEDEVAC.",
+      "Modification des marqueurs."
+    ]
   },
   "FIA": {
     "version": "V1.0",
