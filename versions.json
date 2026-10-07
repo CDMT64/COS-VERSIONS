@@ -29,8 +29,12 @@
     "notes": []
   },
   "SUIVI MECA": {
-    "version": "V1.0",
+    "version": "V1.1",
     "date": "",
-    "notes": []
+    "notes": [
+	"Ajout import de PDF et EXCEL",
+      "Ajout fond clair / sombre",
+	"Ajout temps d'indisponibilité"
+	]
   }
 }
