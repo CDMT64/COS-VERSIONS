@@ -5,9 +5,12 @@
     "notes": []
   },
   "PERFS COUGAR": {
-    "version": "V1.1",
-    "date": "",
-    "notes": []
+    "version": "V1.3",
+    "date": "2026-10-16",
+    "notes": [
+	"Corrections de bugs (dépassement du carburant)",
+	"Nb de LZ et régimes illimités"
+	]
   },
   "TIMELINE": {
     "version": "V1.1",
@@ -30,11 +33,12 @@
   },
   "SUIVI MECA": {
     "version": "V1.1",
-    "date": "2026-10-07",
+    "date": "2026-10-16",
     "notes": [
 	"Ajout import de PDF et EXCEL",
       "Ajout fond clair / sombre",
 	"Ajout temps d'indisponibilité"
+	"Ajout du dernier vol effectué"
 	]
   }
 }
