@@ -1,8 +1,11 @@
 {
   "LARDON": {
-    "version": "V0.5.2",
-    "date": "",
-    "notes": []
+    "version": "V1.1",
+    "date": "2026-11-10",
+    "notes": [
+		"Modification des icônes,"
+		"Modification possible du couloir de l'axe d'approche." 
+	]
   },
   "PERFS COUGAR": {
     "version": "V1.3",
@@ -14,11 +17,9 @@
   },
   "TIMELINE": {
     "version": "V1.1",
-    "date": "2026-10-05",
+    "date": "2026-11-10",
     "notes": [
-      "Ajout de visuels.",
-      "Ajout de la fonction MEDEVAC.",
-      "Modification des marqueurs."
+      "Ajout de la ligne NIVEAU DE NUIT."
     ]
   },
   "FIA": {
@@ -27,9 +28,11 @@
     "notes": []
   },
   "BILAN HDV": {
-    "version": "V1.1",
-    "date": "",
-    "notes": []
+    "version": "V1.2",
+    "date": "2026-11-10",
+    "notes": [
+		"Ajout du tableau de synthèse cahier de det."
+	]
   },
   "SUIVI MECA": {
     "version": "V1.1",
